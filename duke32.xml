@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="."
+           name="cornway/DukeNukemStm32.git" remote="origin" />
+
+  <project path="./common"
+           name="cornway/stm32f7xx-intf-master.git" remote="origin" />
+
+</manifest>
